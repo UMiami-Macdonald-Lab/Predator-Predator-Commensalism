@@ -3,7 +3,7 @@
 
 ## Manuscript Title
 **Behavioral Evidence of Predator–Predator Commensalism: Cobia Track and Feed on Prey Disturbed by Southern Stingrays**  
-*Saltzman et al., 2025*  
+*Saltzman et al., 2025*  In preperation for submission to Ethology
 
 ## Overview
 
