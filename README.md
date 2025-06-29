@@ -59,14 +59,6 @@ Plots include:
 
 - Available via [Figshare](https://figshare.com/s/d40deeff8dddad67654b)
 
-## Suggested Citation
-
-If using this dataset or code, please cite:
-
-> Saltzman, J., Hlavin, J., Martin, C., Yeager, E. A., & Macdonald, C. C. (2025). Behavioral Evidence of Predator–Predator Commensalism: Cobia Track and Feed on Prey Disturbed by Southern Stingrays. *In Review.*
-
-## Contact
-
 For questions or collaborations, contact:  
 **Julia Saltzman**  
 📧 juliasaltzman@miami.edu  
