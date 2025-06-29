@@ -28,25 +28,25 @@ This repository contains the R code and data processing pipeline used to analyze
 
 ## Code Pipeline
 
-### 🔧 1. Load and Filter GPS Data
+###  1. Load and Filter GPS Data
 The GPX file is loaded using `sf` and filtered to include only timestamps within the window of behavioral observation.
 
-### 🌍 2. Project Coordinates
+### 2. Project Coordinates
 Lat/lon coordinates are projected to UTM Zone 17N to calculate accurate distances and movement metrics.
 
-### 📈 3. Calculate Trajectory Metrics
+###  3. Calculate Trajectory Metrics
 Using `trajr`, the script computes:
 - Step lengths (inter-frame movement)
 - Speed in m/s, kph, and mph
 - Smoothed velocity using a rolling mean (Savitzky-Golay filter)
 
-### 🗺️ 4. Spatial Visualization
+### 4. Spatial Visualization
 Plots include:
 - Flight path overlaid on a Florida base map
 - Annotated Deering Point and Biscayne Bay labels
 - Inset locator map for state-level context
 
-### 📊 5. Output
+###  5. Output
 - CSV: `CF_metrics_export.csv` — Trajectory and smoothed speed data
 - PNG: `final_map_combined.png` — Figure of spatial path with inset
 - Behavioral time stamps aligned to drone-derived video
