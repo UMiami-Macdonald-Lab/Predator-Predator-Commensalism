@@ -51,23 +51,9 @@ Plots include:
 - PNG: `final_map_combined.png` — Figure of spatial path with inset
 - Behavioral time stamps aligned to drone-derived video
 
-## Ethogram Integration
-
-Behavioral states coded during video analysis are aligned with time segments in the trajectory file:
-
-| Time Segment | Cobia Behavior                  | Stingray Behavior             |
-|--------------|----------------------------------|-------------------------------|
-| 0:00–0:42    | Following Abaft                 | Primary Search (Active Scan) |
-| 0:42–2:00    | Hovering Above (Settled)        | Secondary Search (Digging)   |
-| 4:48–5:00    | Chasing/Consuming Displaced Prey| Consumption (Suction)        |
-| …            | …                                | …                             |
-
-See manuscript Table 1 for the full ethogram.
-
 ## Visual Outputs
 
 - **Figure 1**: UAV flight track over Deering Point (main + inset locator map)
-- **Figure 2**: Behavioral schematic of stingray–cobia interactions
 
 ## Raw Video Data
 
